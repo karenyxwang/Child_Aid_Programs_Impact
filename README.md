@@ -7,15 +7,22 @@ Using the Child Development Supplement to the Panel Study of Income Dynamics. Th
 The report includes: the descriptive statistics (i.e. N, means/medians/proportions, standard deviations, frequencies, observed ranges, and correlations) of the variables and the multiple regression analyses with interaction effects.
 
 Definition of Variables:
+
 • WICpreg – Women, Infant and Children (WIC) Nutrition Program participant during
 pregnancy: 0 = No, 1 = Yes.
+
 • Race – Centered Binary Coding of Race: -0.5 = Black, 0.5 = White.
+
 • mathraw97 – Woodcock-Johnson Revised Mathematics Achievement Test Raw Score.
 Minimum = 0, Maximum = 98.
+
 • age97 – The child’s age in 1997. Minimum = 3, Maximum = 13.
+
 • faminc97 – Total family income in 1997 (in 2002 constant dollars). Minimum = $-
 72296.26, Maximum = $784610.59.
+
 • bthwht – Low birth weight status of the child. 0 = non-low birth weight child, 1 = low
 birth weight child.
+
 • HOME97 – A composite total score of the emotional and cognitive stimulation at home.
 Minimum = 7, Maximum = 27.
